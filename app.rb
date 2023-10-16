@@ -1,4 +1,7 @@
 
 require 'bundler'
-require_relative 'lib/users'
+require_relative 'lib/user'
 require_relative 'lib/event'
+
+
+binding.pry
